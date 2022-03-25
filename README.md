@@ -1,5 +1,4 @@
 # preferences_app
-editado dsd vscode
 A new Flutter project.
 
 ## Getting Started
